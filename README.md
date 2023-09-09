@@ -1,7 +1,8 @@
 ## Proyecto Hotel Alura
 ### 1. Descripción:
-Este proyecto se implementó con el lenguaje JAVA utilizando el patrón de diseño MVC con conexión a una Base de Datos en MySQL, haciendo uso del driver JDBC. El script de la Base de Datos hotel_alura(script_bd.sql) está incluido el proyecto.
+Este proyecto se implementó con el lenguaje JAVA utilizando el patrón de diseño MVC con conexión a una Base de Datos en MySQL, haciendo uso del driver JDBC. El script de la Base de Datos hotel_alura(script_bd.sql) está incluido el proyecto, asimismo en la carpeta lib se encontrarán los jars a importar.
 El proyecto tiene como base la parte gráfica del sistema proporcionada en el Challenge ONE – Hotel Alura, la cual está construida con la biblioteca javax.swing
+
 ### 2. Objetivo
 Este sistema permite realizar el control de las reservas de un hotel, a través de las opciones del sistema es posible realizar el registro, edición, eliminación y búsqueda de las reservas y huéspedes.
 
